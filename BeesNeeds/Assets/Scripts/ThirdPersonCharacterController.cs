@@ -11,6 +11,10 @@ public class ThirdPersonCharacterController : MonoBehaviour
     void Update()
     {
         PlayerMovement();
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
     }
 
     void PlayerMovement()
