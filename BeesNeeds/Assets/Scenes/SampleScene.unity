@@ -2139,8 +2139,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d44504aacd45b64997575010524de5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
-  respawnPoint: {fileID: 38483833}
+  player: {fileID: 135613799}
+  respawnPoint: {fileID: 1231656508}
 --- !u!114 &399599756
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3128,8 +3128,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d44504aacd45b64997575010524de5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
-  respawnPoint: {fileID: 925178008}
+  player: {fileID: 135613799}
+  respawnPoint: {fileID: 1231656508}
 --- !u!65 &618548568
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4408,8 +4408,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d44504aacd45b64997575010524de5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
-  respawnPoint: {fileID: 38483833}
+  player: {fileID: 135613799}
+  respawnPoint: {fileID: 1231656508}
 --- !u!114 &946778832
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5534,8 +5534,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d44504aacd45b64997575010524de5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
-  respawnPoint: {fileID: 38483833}
+  player: {fileID: 135613799}
+  respawnPoint: {fileID: 1231656508}
 --- !u!114 &1202716824
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7642,8 +7642,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d44504aacd45b64997575010524de5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
-  respawnPoint: {fileID: 38483833}
+  player: {fileID: 135613799}
+  respawnPoint: {fileID: 1231656508}
 --- !u!114 &1743988443
 MonoBehaviour:
   m_ObjectHideFlags: 0
